@@ -1,19 +1,22 @@
-# 👩‍💻 Natália Guarnieri
+# 👩‍💻 Natália Guarnieri | Data Analyst & BI Specialist
 
-Profissional de dados com mais de 10 anos de experiência em Business Intelligence, Análise de Dados e Estratégia. Minha expertise se concentra em transformar dados complexos em insights acionáveis, com atuação em setores como Finanças, Educação, Startups e E-commerce.
+Profissional de dados com mais de **10 anos de experiência** em Business Intelligence, Análise de Dados e Estratégia. Minha expertise se concentra em transformar dados complexos em insights acionáveis, com atuação em setores como **Finanças, Educação, Startups e E-commerce.**
 
 Este portfólio demonstra minhas habilidades práticas em **Engenharia de Dados**, **Análise**, **Modelagem Preditiva** e **Visualização**, simulando cenários de trabalho reais e utilizando ferramentas de mercado.
 
 ---
 
-## 🚧 Projetos em Destaque (Em construção)
+### 💡 Projetos em Destaque
 
-#### **1. Otimização para E-commerce com Teste A/B**
+Selecionei projetos que demonstram o domínio da stack completa: da ingestão de dados à conclusão de negócio.
+
+#### 1. Otimização para E-commerce com Teste A/B (🏆 Destaque!)
 * **Objetivo:** Analisar a performance de um novo design de página de produto e validar o impacto na taxa de conversão.
 * **Tecnologias Utilizadas:**
     * **Engenharia de Dados:** Python para simulação de dados e ingestão no BigQuery.
     * **Análise:** SQL para consultas no BigQuery e Python (Scipy) para análise estatística do Teste A/B.
     * **Visualização:** Dashboard em Power BI para acompanhamento de KPIs e resultados.
+- **Link:** https://github.com/nataliaguarnieri/portfolio-data-projects/tree/main/proj_1_otimizacao_ecommerce_testeAB
 
 #### **2. Detecção de Fraudes no Setor Financeiro**
 * **Objetivo:** Construir um pipeline e modelo preditivo para identificar transações suspeitas, garantindo a qualidade e segurança dos dados.
@@ -57,15 +60,6 @@ Este portfólio demonstra minhas habilidades práticas em **Engenharia de Dados*
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
-
-## 📌 Em breve:
-- Repositórios individuais com README completo por projeto  
-- Diagrama das arquiteturas e stacks utilizadas  
-- Deploys locais e em nuvem (quando possível)  
-- Artigos no LinkedIn com walkthroughs e aprendizados  
-
----
-
 
 ## 🌐 Contato
 - [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-andrade-guarnieri-618778262/)
