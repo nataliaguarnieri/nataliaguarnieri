@@ -1,8 +1,10 @@
-# 👩‍💻 Natália Guarnieri | Data Analyst & BI Specialist
+# 👩‍💻 Natália Guarnieri | Data Analyst • BI • AI Applications
 
-Profissional de dados com mais de **10 anos de experiência** em Business Intelligence, Análise de Dados e Estratégia. Minha expertise se concentra em transformar dados complexos em insights acionáveis, com atuação em setores como **Finanças, Educação, Startups e E-commerce.**
+Profissional de dados com mais de 10 anos de experiência em Business Intelligence, Análise e Estratégia, atualmente explorando o potencial da **Inteligência Artificial aplicada a dados e automação**.
 
-Este portfólio demonstra minhas habilidades práticas em **Engenharia de Dados**, **Análise**, **Modelagem Preditiva** e **Visualização**, simulando cenários de trabalho reais e utilizando ferramentas de mercado.
+Minha trajetória une **análise, engenharia e IA**, com foco em transformar informações complexas em soluções inteligentes e acionáveis.
+
+Este portfólio reúne projetos práticos que envolvem **pipelines de dados, automações com IA, análises avançadas e visualizações interativas**, simulando cenários reais de mercado e utilizando ferramentas amplamente adotadas como **Python, SQL, Power BI, Spark, dbt, LangChain, Streamlit e GCP/AWS**.
 
 ---
 
